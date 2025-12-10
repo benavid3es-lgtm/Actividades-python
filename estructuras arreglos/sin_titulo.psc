@@ -11,7 +11,7 @@ Algoritmo Venta_Boletas_Concierto
 	
     Repetir
         Limpiar Pantalla
-        Escribir"  VOLETERIA   "
+        Escribir"  BOLETERIA   "
         Escribir "Boletas disponibles: ", total_boletas
         Escribir "1. Comprar boletas"
         Escribir "2. Mostrar compradores"
